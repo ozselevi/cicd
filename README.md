@@ -11,4 +11,4 @@ A repository célja, hogy automatizáljuk a szoftverfejlesztési folyamatot, bel
 
 A repository tartalmát a CI/CD platform (pl. GitHub Actions, GitLab CI/CD, Jenkins) segítségével lehet használni.
 
-[Futtatható program:](https://github.com/ozselevi/cicd/releases/tag/latest)
+[Futtatható program](https://github.com/ozselevi/cicd/releases/tag/latest)
